@@ -1,0 +1,5 @@
+name: "Vode Studio";
+group: "essentials", "vode-studio", "vodestudio";
+id: "vode";
+repository: "https://gitly.org/ben/studio";
+v: "1";
